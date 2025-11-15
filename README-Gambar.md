@@ -1,4 +1,5 @@
 # uts-pemmob
+izin filenya lewat drive karena github upload filenya lagi bermasalah, dan masalah laptop yang tidak kuat
 https://drive.google.com/drive/folders/18oF1yd1fpEx4_qJGuJX9UObUhWClu5fl?usp=sharing
 
 <img width="265" height="599" alt="Screenshot 2025-11-13 232212" src="https://github.com/user-attachments/assets/a4ca5397-9853-4572-82d1-fe1fd9e84e57" />
